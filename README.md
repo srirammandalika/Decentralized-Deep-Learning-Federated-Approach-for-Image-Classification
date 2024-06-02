@@ -15,3 +15,7 @@ This project focuses on implementing a decentralized federated learning model. I
 - Enhanced data privacy
 - Robust to data poisoning attacks
 - Efficient communication protocols
+- Clients = 20
+- Hidden Units = 400
+- Comm rounds = 300
+
