@@ -13,7 +13,7 @@ This project focuses on implementing a decentralized federated learning model. I
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Contact](https://srirammandalika.github.io/)
 
 ## Features
 - Decentralized architecture
