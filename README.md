@@ -1,6 +1,6 @@
 # Decentralised Federated Learning
 
-![Project Logo](https://via.placeholder.com/150)
+![Project Logo](assets/image.png)
 
 ## Overview
 This project focuses on implementing a decentralized federated learning model. It aims to address challenges such as data privacy, communication efficiency, and model performance.
